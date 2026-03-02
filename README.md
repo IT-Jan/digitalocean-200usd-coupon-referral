@@ -1,5 +1,4 @@
 # digitalocean-200usd-coupon-referral
-Get $200 Credit For 60 Days. 
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=42f1c13f035e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
